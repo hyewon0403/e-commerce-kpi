@@ -6,4 +6,4 @@
 
 
 ### 데이터 분석 및 지표 개발
-[pandas 활용 데이터 분석, seaborn 활용 데이터 시각화](https://github.com/hyewon0403/e-commerce-kpi/blob/master/e_commerce_kpi.ipynb)
+[pandas 활용 데이터 분석, matplotlib, seaborn 활용 데이터 시각화](https://github.com/hyewon0403/e-commerce-kpi/blob/master/e_commerce_kpi.ipynb)
