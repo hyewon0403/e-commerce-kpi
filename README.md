@@ -5,5 +5,5 @@
 최근성(recency), 구매 빈도(frequency), 구매 금액(monetary) 3가지 지표를 활용하여 고객 등급을 세분화하였고, 이를 바탕으로 시각화하여 인사이트를 추출하였습니다.
 
 
-### 데이터 분석 및 지표 개발
-[pandas 활용 데이터 분석, matplotlib, seaborn 활용 데이터 시각화](https://github.com/hyewon0403/e-commerce-kpi/blob/master/e_commerce_kpi.ipynb)
+### 파일 링크
+[#1. pandas 활용 데이터 분석 및 matplotlib, seaborn 활용 데이터 시각화](https://github.com/hyewon0403/e-commerce-kpi/blob/master/e_commerce_kpi.ipynb)
